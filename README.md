@@ -1,8 +1,8 @@
 # SO-WEBSERVER-Alejandro-Alvarez-and-Marco-Ochil
 
 ## Integrantes:
-Alejandro Alvarez Lamazares
-Marco Antonio Ochil Trujillo
+- Alejandro Alvarez Lamazares
+- Marco Antonio Ochil Trujillo
 
 ## Funcionalidades:
 Funcionalidades Básicas (3 puntos)
