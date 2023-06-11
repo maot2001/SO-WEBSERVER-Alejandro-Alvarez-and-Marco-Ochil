@@ -8,6 +8,7 @@ Marco Antonio Ochil Trujillo
 Funcionalidades Básicas (3 puntos)
 
 Funcionalidades Adicionales
+
 1- Mostrar información adicional de los archivos y directorios, además del nombre (fécha de modificación, tamaño, permisos, etc.) (1pt adicional)
 • Esta funcionalidad debe permitir ordenar por nombre, fecha, tamaño, etc.
 
@@ -17,15 +18,19 @@ Total de puntos: 5
 
 ## Instrucciones:
 1-Compilar el webserver con el comando
+
 gcc myws.c -o "NOMBRE"
 
 2-Ejecutarlo pasandole el puerto por donde va a escuchar y el directorio raíz desde donde se va a mostrar información con el comando
+
 ./"NOMBRE" "PUERTO" "RAIZ"
 
 3-Abrir un navegador y escribir la direccion
+
 localhost:"PUERTO"/
 
 Ejemplo
+
 1- gcc myws.c -o myws
   
 2-./myws 1025 /mnt/c/musica
