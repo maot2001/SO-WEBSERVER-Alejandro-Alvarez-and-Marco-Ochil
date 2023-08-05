@@ -10,7 +10,7 @@ Funcionalidades Básicas (3 puntos)
 Funcionalidades Adicionales
 
 1- Mostrar información adicional de los archivos y directorios, además del nombre (fécha de modificación, tamaño, permisos, etc.) (1pt adicional)
-• Esta funcionalidad debe permitir ordenar por nombre, fecha, tamaño, etc.
+• Esta funcionalidad debe permitir ordenar por nombre, fecha, tamaño, etc
 
 2- Permitir múltiples peticiones de varios clientes simultáneamente (1 pt adicional)
 
